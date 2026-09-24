@@ -1,0 +1,6 @@
+{
+  "name": "Subway Surfers",
+  "description": "لعبة صب واي سيرفرز ثلاثية الأبعاد للركض اللانهائي مع التحكم بالسحب وإلغاء قفل الشخصيات والقطارات والزلاجات والجوائز",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
